@@ -1,5 +1,20 @@
 # Changelog
 
+## [10.8.3](https://github.com/npm/cli/compare/v10.8.2...v10.8.3) (2024-07-24)
+
+### Bug Fixes
+
+* [`a947f25`](https://github.com/npm/cli/commit/a947f25bd4576f7ef70fe6b1226e72252fa7a571) [#7679](https://github.com/npm/cli/pull/7679) update lifecycle script list in run-script (#7679) (@sonsurim)
+
+### Chores
+
+* [`86b05fc`](https://github.com/npm/cli/commit/86b05fc8f110cadc67fcf7417bc0646289919000) [#7683](https://github.com/npm/cli/pull/7683) allow for longer timer values (#7683) (@wraithgar)
+
+
+### Dependencies
+
+* [workspace](https://github.com/npm/cli/releases/tag/libnpmexec-v8.1.4): `libnpmexec@8.1.4`
+
 ## [10.8.2](https://github.com/npm/cli/compare/v10.8.1...v10.8.2) (2024-07-09)
 
 ### Bug Fixes
